@@ -15,4 +15,4 @@ It is also used as practice for professional workflows with Git, Issues, Pull Re
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/game-demo.git
+   git clone [https://github.com/aralvega/juego-demo.git)]
